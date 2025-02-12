@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VampireDiaries09/Github-Actions-Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VampireDiaries09/Github-Actions-Nodejs/issues"
+  },
+  "homepage": "https://github.com/VampireDiaries09/Github-Actions-Nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "os-utils": "^0.0.14"
+  }
+}
